@@ -18,7 +18,7 @@ This is a custom prompt segment for the [Powerlevel10k ZSH theme](https://github
     source $HOME/p10k-cf-prompt-segment/cf-prompt.zsh
     ```
 
-1. Add `get_cf_info` to your `POWERLEVEL9K_LEFT_PROMPT_ELEMENTS` in the `~/.p10k.zsh` file
+1. Add `cloudfoundry_target` to your `POWERLEVEL9K_LEFT_PROMPT_ELEMENTS` in the `~/.p10k.zsh` file
 
 ## Acknowledgements
 
